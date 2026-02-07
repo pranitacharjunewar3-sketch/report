@@ -20,4 +20,4 @@ If secrets are pushed into a repository (especially public ones), it can result 
 - Financial loss (e.g., cloud billing abuse)
 
 ## Conclusion
-While GitHub is a powerful tool, developers must be careful to avoid exposing confidential information and should follow best security practices when working with repositories.
+While GitHub   is a powerful tool, developers must be careful to avoid exposing confidential information and should follow best security practices when working with repositories.
