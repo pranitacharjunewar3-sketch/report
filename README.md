@@ -14,8 +14,8 @@ The major issue with GitHub is that users sometimes accidentally upload sensitiv
 ## Why This is a Problem
 If secrets are pushed into a repository (especially public ones), it can result in:
 
-- Data leaks  
-- Unauthorized access  
+- Data leaks 
+- Unauthorized  access  
 - Account hacking  
 - Financial loss (e.g., cloud billing abuse)
 
